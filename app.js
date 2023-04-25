@@ -80,7 +80,7 @@ const addApps = [
   },
   {
     category_name: 'Inteligencia de negocios',
-    enable: false,
+    enable: true,
     children: [
       {
         order: 1,
