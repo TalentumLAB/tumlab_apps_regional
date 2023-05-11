@@ -8,5 +8,6 @@ services:
     volumes:
       - .:/usr/share/nginx/html
       - /tumlab/syncthing/agent.config:/usr/share/nginx/html/info/agent.json
+      - /tumlab/syncthing/latestbackup.json:/usr/share/nginx/html/sync/latestbackup.json
     ports:
       - ${APP_PORT:-80}:80
