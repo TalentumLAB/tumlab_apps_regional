@@ -28,7 +28,7 @@ const addApps = [
   },
   {
     category_name: 'Temas lúdicos',
-    enable: true,
+    enable: false,
     children: [
       {
         order: 1,
@@ -54,7 +54,7 @@ const addApps = [
   },
   {
     category_name: 'Simuladores',
-    enable: true,
+    enable: false,
     children: [
       {
         order: 1,
@@ -80,7 +80,7 @@ const addApps = [
   },
   {
     category_name: 'Inteligencia de negocios',
-    enable: true,
+    enable: false,
     children: [
       {
         order: 1,
@@ -96,7 +96,7 @@ const addApps = [
   },
   {
     category_name: 'Contenido informativo',
-    enable: true,
+    enable: false,
     children: [
       {
         order: 1,
