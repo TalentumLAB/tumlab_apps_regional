@@ -64,7 +64,7 @@ const addApps = [
         cover: "./img/simuladores/simuladores_cover.png",
         description:
           "Simulaciones interactivas en Física, Química, Ciencias basada en el proyecto de simulaciones interactivas de PhET de la Universidad de Colorado en Boulder. Estos recursos nacen de la investigación educativa extensiva e involucran a los estudiantes mediante un ambiente intuitivo y similar a un juego, en donde aprenden explorando y descubren.",
-        url: "hhttp://tumlab.local:8087/viewer#phet_es_2023-01/A/index.html",
+        url: "http://tumlab.local:8087/viewer#phet_es_2023-01/A/index.html",
       },
       {
         order: 2,
